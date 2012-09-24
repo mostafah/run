@@ -1,4 +1,4 @@
-// Package run provides an easy way to run external commands. It's not a very
+// Package run provides an easy way to execute external commands. It's not a
 // big package (less than 100 lines of code), but comes handy when one is using
 // an external command inside a Go program. Because it gets stdin and returns
 // stdout and stderr in []byte.

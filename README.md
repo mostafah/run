@@ -1,4 +1,3 @@
-run
-===
+Package run provides an easy way to execute external commands.
 
-Package run provides an easy way to run external commands.
+Read the documentation on [GoPkgDoc](http://go.pkgdoc.org/github.com/mostafah/run).
